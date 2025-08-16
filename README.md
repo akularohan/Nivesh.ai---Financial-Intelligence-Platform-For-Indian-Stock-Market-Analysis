@@ -1,4 +1,4 @@
-# 📈 Stock Inference Platform for Indian Equities Using RAG
+# 📈 Nivesh.ai - Financial Intelligence Platform For Indian Stock Market Analysis
 
 **NiveshAi** — a comprehensive and intelligent **AI-Powered Stock Inference Platform** purpose-built for the Indian equities market.  
 It harnesses the advanced capabilities of **Retrieval-Augmented Generation (RAG)** to generate precise and contextual insights by analyzing historical financial data scraped directly from **Screener.in** — ensuring **zero reliance on paid APIs or third-party data providers**.
