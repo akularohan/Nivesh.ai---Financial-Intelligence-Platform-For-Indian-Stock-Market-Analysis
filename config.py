@@ -1,4 +1,4 @@
-huggingfacetoken="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"
+huggingfacetoken="hugging_face_token"
 company_info_class ="company-ratios"
 finance_class ="data-table responsive-text-nowrap"
 pros="pros"
