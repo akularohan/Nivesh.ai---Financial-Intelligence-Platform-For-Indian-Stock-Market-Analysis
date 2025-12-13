@@ -1,6 +1,1 @@
-huggingfacetoken="hugging_face_token"
-company_info_class ="company-ratios"
-finance_class ="data-table responsive-text-nowrap"
-pros="pros"
-cons="cons"
-growth_class="ranges-table"
+//your tokens for api
